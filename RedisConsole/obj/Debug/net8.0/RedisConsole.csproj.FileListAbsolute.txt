@@ -1,0 +1,14 @@
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\RedisCourse\RedisConsole\bin\Debug\net8.0\RedisConsole.exe
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\RedisCourse\RedisConsole\bin\Debug\net8.0\RedisConsole.deps.json
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\RedisCourse\RedisConsole\bin\Debug\net8.0\RedisConsole.runtimeconfig.json
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\RedisCourse\RedisConsole\bin\Debug\net8.0\RedisConsole.dll
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\RedisCourse\RedisConsole\bin\Debug\net8.0\RedisConsole.pdb
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\RedisCourse\RedisConsole\obj\Debug\net8.0\RedisConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\RedisCourse\RedisConsole\obj\Debug\net8.0\RedisConsole.AssemblyInfoInputs.cache
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\RedisCourse\RedisConsole\obj\Debug\net8.0\RedisConsole.AssemblyInfo.cs
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\RedisCourse\RedisConsole\obj\Debug\net8.0\RedisConsole.csproj.CoreCompileInputs.cache
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\RedisCourse\RedisConsole\obj\Debug\net8.0\RedisConsole.dll
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\RedisCourse\RedisConsole\obj\Debug\net8.0\refint\RedisConsole.dll
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\RedisCourse\RedisConsole\obj\Debug\net8.0\RedisConsole.pdb
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\RedisCourse\RedisConsole\obj\Debug\net8.0\RedisConsole.genruntimeconfig.cache
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\RedisCourse\RedisConsole\obj\Debug\net8.0\ref\RedisConsole.dll
