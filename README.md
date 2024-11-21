@@ -12,3 +12,5 @@ https://redis.io/docs/latest/commands/
 ```Javascript
 Microsoft.Extensions.Caching.StackExchangeRedis
 ```
+
+https://cloud.redis.io
